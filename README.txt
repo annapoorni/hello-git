@@ -4,3 +4,4 @@ Adding feature2 from feature2 branch
 
 This is a README
 Git is cool. add
+Training one
